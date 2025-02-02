@@ -7,6 +7,10 @@ public class Human {
         this.hair = hair;
     }
 
+    public Human() {
+
+    }
+
     public String getHair() {
         return hair;
     }

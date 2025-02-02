@@ -4,5 +4,8 @@ public class Test {
     public static void main(String[] args) {
         Student student=new Student("jkbkj");
         student.printHair();
+        //student.hair="hjnjknk";
+        //student.printHair();
+        System.out.println(student.getHair());
     }
 }
