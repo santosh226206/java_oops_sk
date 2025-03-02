@@ -50,6 +50,19 @@ public class Main {
 
         circle.display();
         System.out.println("Area of circle: " + circle.area());
+
+        rect.display();
+        System.out.println("Area of rectangle: " + rect.area());
+
+        circle.display();
+        System.out.println("Area of circle: " + circle.area());
+
+        rect.display();
+        System.out.println("Area of rectangle: " + rect.area());
+
+        circle.display();
+        System.out.println("Area of circle: " + circle.area());
+        System.out.println("Area of circle: " + circle.area());
     }
 }
 
